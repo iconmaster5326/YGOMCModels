@@ -1,0 +1,41 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"tornado": {
+					"rotation": {
+						"vector": [0, 0, -7.5]
+					}
+				},
+				"tornado2": {
+					"rotation": {
+						"vector": [10, 0, 12.5]
+					}
+				},
+				"tornado3": {
+					"rotation": {
+						"vector": [-15, 0, -12.5]
+					}
+				},
+				"tornado4": {
+					"rotation": {
+						"vector": [5, 0, 10]
+					}
+				},
+				"tornado5": {
+					"rotation": {
+						"vector": [-5, 0, -5]
+					}
+				},
+				"tornado6": {
+					"rotation": {
+						"vector": [4.99527, -0.21782, 2.4905]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

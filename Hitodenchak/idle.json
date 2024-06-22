@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [0, -32.5, 0]
+					}
+				},
+				"arm4": {
+					"rotation": {
+						"vector": [0, -30, 0]
+					}
+				},
+				"arm5": {
+					"rotation": {
+						"vector": [0, 30, 0]
+					}
+				},
+				"arm6": {
+					"rotation": {
+						"vector": [0, 35, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

@@ -1,0 +1,119 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [0, -180, 0]
+					},
+					"position": {
+						"vector": [0, -8, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [5.019, -4.98093, -0.43688]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, -15]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-27.5, 0, -105]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, 0, -125]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [0, -62.5, 125]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [10, -22.5, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [34.50269, -21.63471, 28.20867]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [55, 0, 0]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-37.78025, -3.40487, 9.40804]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [0, -45, 0]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [0, -42.5, 0]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [0, -27.5, 0]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [0, -20, 0]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [0, -20, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [0, 0, 122.5]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [-17.5, 22.5, -122.5]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-12.39638, 1.61888, 19.82417]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-65, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

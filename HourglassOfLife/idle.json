@@ -1,0 +1,21 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"wing": {
+					"rotation": {
+						"vector": [2.5, 20, 0]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [-5, -17.5, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

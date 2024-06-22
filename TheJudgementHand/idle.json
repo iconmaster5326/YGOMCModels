@@ -1,0 +1,66 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"palm": {
+					"rotation": {
+						"vector": [-30, 0, 0]
+					}
+				},
+				"finger": {
+					"rotation": {
+						"vector": [0, 15, 0]
+					}
+				},
+				"fingogre": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"fingogre2": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"finger3": {
+					"rotation": {
+						"vector": [25.33761, -9.05478, -4.26175]
+					}
+				},
+				"fingogre3": {
+					"rotation": {
+						"vector": [-5, 0, 0]
+					}
+				},
+				"finger4": {
+					"rotation": {
+						"vector": [38.28761, -22.22485, -16.62484]
+					}
+				},
+				"fingogre4": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"finger5": {
+					"rotation": {
+						"vector": [57.8991, 60.97527, 59.91586]
+					}
+				},
+				"fingore5": {
+					"rotation": {
+						"vector": [0, 15, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

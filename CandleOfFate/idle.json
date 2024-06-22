@@ -1,0 +1,41 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"finger": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"finger2": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"finger3": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"flame": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"finger4": {
+					"rotation": {
+						"vector": [41.21777, -9.29798, -14.89149]
+					}
+				},
+				"thumb": {
+					"rotation": {
+						"vector": [-2.59775, 27.38656, 19.36696]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

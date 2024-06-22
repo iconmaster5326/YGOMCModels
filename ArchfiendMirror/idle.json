@@ -1,0 +1,133 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"butt_wing": {
+					"rotation": {
+						"vector": [149.55435, -33.48545, -162.03283]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-47.5, 0, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [62.5, 0, 0]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [42.5, 0, 0]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"tail7": {
+					"rotation": {
+						"vector": [52.5, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [42.5, 0, 0]
+					}
+				},
+				"left_shoulder": {
+					"rotation": {
+						"vector": [-122.37559, -61.09544, 29.03199]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [35.04707, -18.82943, 85.41141]
+					}
+				},
+				"right_shoulder": {
+					"rotation": {
+						"vector": [-42.94218, 46.91981, 38.12634]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"vector": [0.93148, -19.90349, -81.87626]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"left_knee": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"left_leg": {
+					"rotation": {
+						"vector": [105, 0, 0]
+					}
+				},
+				"left_foot": {
+					"rotation": {
+						"vector": [-67.5, 0, 0]
+					}
+				},
+				"left_claw": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"left_knee2": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"left_leg2": {
+					"rotation": {
+						"vector": [105, 0, 0]
+					}
+				},
+				"left_foot2": {
+					"rotation": {
+						"vector": [-72.5, 0, 0]
+					}
+				},
+				"left_claw2": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"butt_wing2": {
+					"rotation": {
+						"vector": [147.68777, 37.75546, 158.83069]
+					}
+				},
+				"mirror": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					},
+					"position": {
+						"vector": [0, 1, -3]
+					}
+				}
+			}
+		}
+	}
+}

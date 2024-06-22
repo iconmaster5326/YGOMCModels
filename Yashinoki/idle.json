@@ -1,0 +1,149 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"trunk": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"trunk2": {
+					"rotation": {
+						"vector": [80, 0, 0]
+					}
+				},
+				"trunk3": {
+					"rotation": {
+						"vector": [-75, 0, 0]
+					}
+				},
+				"trunk4": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"trunk5": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					}
+				},
+				"trunk6": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"trunk7": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"trunk8": {
+					"rotation": {
+						"vector": [52.5, 0, 0]
+					}
+				},
+				"trunk9": {
+					"rotation": {
+						"vector": [55, 0, 0]
+					}
+				},
+				"trunk10": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"trunk11": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"trunk12": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"leaf5": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"lowerleaf5": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"leaf4": {
+					"rotation": {
+						"vector": [2.49657, 1.9467, 25.62431]
+					}
+				},
+				"lowerleaf4": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"leaf3": {
+					"rotation": {
+						"vector": [-189.84721, -56.75248, -159.99027]
+					}
+				},
+				"lowerleaf3": {
+					"rotation": {
+						"vector": [37.5, 0, 0]
+					}
+				},
+				"leaf2": {
+					"rotation": {
+						"vector": [-195.62489, -172.01867, -153.59681]
+					}
+				},
+				"lowerleaf2": {
+					"rotation": {
+						"vector": [62.5, 0, 0]
+					}
+				},
+				"leaf": {
+					"rotation": {
+						"vector": [2.4333, -19.28619, 43.7386]
+					}
+				},
+				"lowerleaf": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"leaf6": {
+					"rotation": {
+						"vector": [-216.74665, 97.02179, 213.96921]
+					}
+				},
+				"lowerleaf6": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"coconut": {
+					"rotation": {
+						"vector": [-79.96258, -4.92385, 179.12962]
+					}
+				},
+				"coconut2": {
+					"rotation": {
+						"vector": [-41.81615, 8.40819, 189.28293]
+					}
+				},
+				"leaves": {
+					"rotation": {
+						"vector": [-105, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 3]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

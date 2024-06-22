@@ -1,0 +1,121 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"horse_head": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"rider_upper_body": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"rider_left_shoulder": {
+					"rotation": {
+						"vector": [49.26408, 58.39167, -36.25873]
+					}
+				},
+				"rider_left_arm": {
+					"rotation": {
+						"vector": [-174.96163, -8.64917, -310.38126]
+					}
+				},
+				"rider_right_shoulder": {
+					"rotation": {
+						"vector": [-107.5, 0, 0]
+					}
+				},
+				"rider_right_arm": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"rider_head": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"rider_left_knee": {
+					"rotation": {
+						"vector": [-45.0127, -43.54375, -14.05334]
+					}
+				},
+				"rider_left_leg": {
+					"rotation": {
+						"vector": [87.5, 0, 0]
+					}
+				},
+				"rider_right_knee": {
+					"rotation": {
+						"vector": [-30.89821, 11.31335, 56.65589]
+					}
+				},
+				"rider_right_leg": {
+					"rotation": {
+						"vector": [92.96346, 32.46527, 1.59176]
+					}
+				},
+				"hindleg": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"hindleg_lower": {
+					"rotation": {
+						"vector": [-100, 0, 0]
+					}
+				},
+				"hindleg2": {
+					"rotation": {
+						"vector": [37.5, 0, 0]
+					}
+				},
+				"hindleg_lower2": {
+					"rotation": {
+						"vector": [35, 0, 0]
+					}
+				},
+				"foreleg": {
+					"rotation": {
+						"vector": [-30, 0, 0]
+					}
+				},
+				"foreleg_lower": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"foreleg2": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"foreleg_lower2": {
+					"rotation": {
+						"vector": [107.5, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"lance": {
+					"rotation": {
+						"vector": [100.00944, -2.45213, 4.53746]
+					}
+				},
+				"lance2": {
+					"rotation": {
+						"vector": [56.83829, 7.57131, -9.97528]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

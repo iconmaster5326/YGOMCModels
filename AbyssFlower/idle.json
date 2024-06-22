@@ -1,0 +1,56 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"leaf": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"stem2": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"stem3": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"stem4": {
+					"rotation": {
+						"vector": [-37.5, 0, 0]
+					}
+				},
+				"stem5": {
+					"rotation": {
+						"vector": [-72.5, 0, 0]
+					}
+				},
+				"leaf2": {
+					"rotation": {
+						"vector": [0, 0, 5]
+					}
+				},
+				"leaf3": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"leaf4": {
+					"rotation": {
+						"vector": [0, 0, -2.5]
+					}
+				},
+				"flower": {
+					"rotation": {
+						"vector": [0, -90, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

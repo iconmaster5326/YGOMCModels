@@ -1,0 +1,66 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"wing": {
+					"rotation": {
+						"vector": [73.3422, -84.02426, -8.1447]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [-272.08165, 82.59216, -326.74478]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [35, 0, 0]
+					}
+				},
+				"lower_leg": {
+					"rotation": {
+						"vector": [-85, 0, 0]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [37.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"hair": {
+					"rotation": {
+						"vector": [-32.5, 0, 0]
+					}
+				},
+				"beak": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-5, 0, 0]
+					}
+				},
+				"lower_leg2": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

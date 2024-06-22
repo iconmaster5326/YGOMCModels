@@ -1,0 +1,161 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"leaf3": {
+					"rotation": {
+						"vector": [0, 0, -25]
+					}
+				},
+				"stem2": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"stem3": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"stem4": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"stem5": {
+					"rotation": {
+						"vector": [-32.5, 0, 0]
+					}
+				},
+				"leaf2": {
+					"rotation": {
+						"vector": [0, 0, -45]
+					}
+				},
+				"stem6": {
+					"rotation": {
+						"vector": [-32.5, 0, 0]
+					}
+				},
+				"stem7": {
+					"rotation": {
+						"vector": [-32.5, 0, 0]
+					}
+				},
+				"leaf": {
+					"rotation": {
+						"vector": [38.13349, 26.53577, 19.8219]
+					}
+				},
+				"stem8": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"stem13": {
+					"rotation": {
+						"vector": [62.5, 0, 0]
+					}
+				},
+				"stem14": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"stem15": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"stem16": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"flower2": {
+					"rotation": {
+						"vector": [-29.9055, 2.49762, 4.33287]
+					}
+				},
+				"petal5": {
+					"rotation": {
+						"vector": [0, 10, 0]
+					}
+				},
+				"petal6": {
+					"rotation": {
+						"vector": [0, 12.5, 0]
+					}
+				},
+				"petal7": {
+					"rotation": {
+						"vector": [0, 20, 0]
+					}
+				},
+				"petal8": {
+					"rotation": {
+						"vector": [0, 20, 0]
+					}
+				},
+				"stem9": {
+					"rotation": {
+						"vector": [47.80668, 31.60006, -0.76378]
+					}
+				},
+				"stem10": {
+					"rotation": {
+						"vector": [0, 0, 7.5]
+					}
+				},
+				"stem11": {
+					"rotation": {
+						"vector": [45.02728, 1.76749, 1.76833]
+					}
+				},
+				"flower": {
+					"rotation": {
+						"vector": [0, 0, 15]
+					}
+				},
+				"petal4": {
+					"rotation": {
+						"vector": [0, 12.5, 0]
+					}
+				},
+				"petal3": {
+					"rotation": {
+						"vector": [0, 20, 0]
+					}
+				},
+				"petal2": {
+					"rotation": {
+						"vector": [0, 17.5, 0]
+					}
+				},
+				"petal": {
+					"rotation": {
+						"vector": [0, 17.5, 0]
+					}
+				},
+				"leaf4": {
+					"rotation": {
+						"vector": [90, 32.5, -82.5]
+					}
+				},
+				"leaf5": {
+					"rotation": {
+						"vector": [0, 0, 17.5]
+					}
+				},
+				"leaf6": {
+					"rotation": {
+						"vector": [-110, -27.5, -115]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

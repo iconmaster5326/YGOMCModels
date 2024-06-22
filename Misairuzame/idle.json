@@ -1,0 +1,72 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"flipper": {
+					"rotation": {
+						"vector": [-1.37562, -12.6704, 17.3789]
+					},
+					"position": {
+						"vector": [-2, 0, 0]
+					}
+				},
+				"lowerflipper": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-62.29788, 6.64851, 3.47875]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-39.56869, 6.40865, 7.69263]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [-24.66569, 4.20854, 9.07947]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [32.39936, -14.02846, 20.9057]
+					}
+				},
+				"flipper2": {
+					"rotation": {
+						"vector": [-3.81397, 11.91276, -22.89807]
+					},
+					"position": {
+						"vector": [2, 0, 0]
+					}
+				},
+				"lowerflipper2": {
+					"rotation": {
+						"vector": [0, 0, -30]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

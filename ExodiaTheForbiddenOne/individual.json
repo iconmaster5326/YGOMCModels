@@ -1,0 +1,133 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"individual": {
+			"loop": true,
+			"bones": {
+				"upper_body": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0.44067, 9.99038, -39.96148]
+					},
+					"position": {
+						"vector": [0, -2, 0]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [0, 97.5, 0]
+					}
+				},
+				"chain": {
+					"rotation": {
+						"vector": [0, 0, 70]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, -10, 40]
+					},
+					"position": {
+						"vector": [0, -2, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [0, -57.5, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-17.5, -32.5, -12.5]
+					},
+					"position": {
+						"vector": [0, -2, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [17.57673, -9.96156, -0.88045]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-25, 40, 0]
+					},
+					"position": {
+						"vector": [0, -2, 0]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [12.51153, -2.4407, -0.54143]
+					}
+				},
+				"chain5": {
+					"rotation": {
+						"vector": [0, 0, -95]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [18.29388, -16.66577, -5.41615]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [17.89807, 11.91276, 3.81397]
+					}
+				},
+				"chain9": {
+					"rotation": {
+						"vector": [0, 0, -77.5]
+					}
+				},
+				"chain13": {
+					"rotation": {
+						"vector": [0, 0, 92.5]
+					}
+				},
+				"kilt": {
+					"rotation": {
+						"vector": [-50, 0, 0]
+					}
+				},
+				"kilt2": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"kilt3": {
+					"rotation": {
+						"vector": [0, 0, 57.5]
+					}
+				},
+				"kilt4": {
+					"rotation": {
+						"vector": [0, 0, -47.5]
+					}
+				},
+				"shackle2": {
+					"rotation": {
+						"vector": [0, -92.5, 0]
+					}
+				},
+				"shackle": {
+					"rotation": {
+						"vector": [0, 90, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

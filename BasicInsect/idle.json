@@ -1,0 +1,121 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"thorax": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"lower_leg": {
+					"rotation": {
+						"vector": [-92.5, 0, 0]
+					}
+				},
+				"claw": {
+					"rotation": {
+						"vector": [185, 0, 0]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"antenna": {
+					"rotation": {
+						"vector": [-7.5, 0, 5]
+					}
+				},
+				"abdomen": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [42.09634, 2.36036, 12.25524]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-50, 0, 0]
+					}
+				},
+				"lower_leg2": {
+					"rotation": {
+						"vector": [-70, 0, 0]
+					}
+				},
+				"claw2": {
+					"rotation": {
+						"vector": [187.5, 0, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [-92.5, -60, 0]
+					}
+				},
+				"lower_leg3": {
+					"rotation": {
+						"vector": [103.97705, 28.9709, 9.62154]
+					}
+				},
+				"leg4": {
+					"rotation": {
+						"vector": [-97.5, 70, 0]
+					}
+				},
+				"lower_leg4": {
+					"rotation": {
+						"vector": [106.53271, -26.79524, -6.42848]
+					}
+				},
+				"leg5": {
+					"rotation": {
+						"vector": [-115, -82.5, 0]
+					}
+				},
+				"lower_leg5": {
+					"rotation": {
+						"vector": [112.79588, 28.02432, 11.17023]
+					}
+				},
+				"leg6": {
+					"rotation": {
+						"vector": [-110, 87.5, 0]
+					}
+				},
+				"lower_leg6": {
+					"rotation": {
+						"vector": [111.88023, -23.39896, -9.06159]
+					}
+				},
+				"antenna2": {
+					"rotation": {
+						"vector": [-7.5, 0, -2.5]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [40.88323, 4.42337, -16.15279]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

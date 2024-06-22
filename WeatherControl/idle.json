@@ -1,0 +1,59 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.WeatherControl.new": {
+			"loop": true
+		},
+		"idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-54.71336, -20.20435, 26.01349]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-61.79133, 21.63471, -34.50269]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, -37.5]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 0, 72.5]
+					}
+				},
+				"cloth": {
+					"rotation": {
+						"vector": [0, 0, -70]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [6.1191, 21.69365, 16.17354]
+					}
+				},
+				"charm": {
+					"rotation": {
+						"vector": [-0.65242, -2.45728, 7.49976]
+					}
+				},
+				"umbrella": {
+					"rotation": {
+						"vector": [10, 0, 37.5]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

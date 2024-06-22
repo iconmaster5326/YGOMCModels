@@ -1,0 +1,71 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": {
+						"vector": [-52.5, -10, 0]
+					}
+				},
+				"antenna": {
+					"rotation": {
+						"vector": [-22.44031, 16.32556, 34.24027]
+					}
+				},
+				"antenna2": {
+					"rotation": {
+						"vector": [-29.77381, -19.08821, -32.7751]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-20.96689, -13.02538, -62.42408]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-38.35172, 19.11279, 62.70001]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [9.53967, -42.26137, -3.86998]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [2.75297, 29.987, 0.62454]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [31.18939, 15.09492, 8.95891]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-17.34584, -0.34317, -2.24948]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [8.18054, 32.06122, 7.24792]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [-7.5, 22.5, 0]
+					}
+				},
+				"body": {
+					"rotation": {
+						"vector": [40, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

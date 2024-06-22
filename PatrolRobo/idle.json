@@ -1,0 +1,131 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lowerbody": {
+					"position": {
+						"vector": [0, 4, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [-30, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-30, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-42.5, 42.5, 47.5]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [0, 85, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, -35, -47.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-32.5, -20, 112.5]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-40, 0, 0]
+					}
+				},
+				"cord6": {
+					"rotation": {
+						"vector": [-11.64798, -32.11187, 4.49976]
+					}
+				},
+				"cord5": {
+					"rotation": {
+						"vector": [-10, -15, 0]
+					}
+				},
+				"cord4": {
+					"rotation": {
+						"vector": [-12.5, -32.5, 0]
+					}
+				},
+				"cord3": {
+					"rotation": {
+						"vector": [0, -35, 0]
+					}
+				},
+				"cord2": {
+					"rotation": {
+						"vector": [0, -22.5, 0]
+					}
+				},
+				"cord": {
+					"rotation": {
+						"vector": [92.5, 0, 0]
+					}
+				},
+				"cord7": {
+					"rotation": {
+						"vector": [0, -32.5, 0]
+					}
+				},
+				"cord8": {
+					"rotation": {
+						"vector": [0, -27.5, 0]
+					}
+				},
+				"cord9": {
+					"rotation": {
+						"vector": [0, 12.5, 0]
+					}
+				},
+				"cord10": {
+					"rotation": {
+						"vector": [-12.72074, 9.65594, -2.61298]
+					}
+				},
+				"cord11": {
+					"rotation": {
+						"vector": [12.5, 20, 0]
+					}
+				},
+				"cord12": {
+					"rotation": {
+						"vector": [5.37222, 32.46942, 0.7726]
+					}
+				},
+				"cord13": {
+					"rotation": {
+						"vector": [-7.5, 17.5, 0]
+					}
+				},
+				"cord14": {
+					"rotation": {
+						"vector": [-28.28709, 39.18574, -6.55783]
+					}
+				},
+				"cord15": {
+					"rotation": {
+						"vector": [-24.76605, 41.03607, -8.92155]
+					}
+				},
+				"cord16": {
+					"rotation": {
+						"vector": [-5, 35, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

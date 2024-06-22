@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"stem": {
+					"rotation": {
+						"vector": [15.61249, 36.46498, 9.42961]
+					}
+				},
+				"bulb": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"stem2": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"bulb2": {
+					"rotation": {
+						"vector": [10, 40, 0]
+					}
+				},
+				"root": {
+					"rotation": {
+						"vector": [0, 47.5, 0]
+					}
+				},
+				"root4": {
+					"rotation": {
+						"vector": [0, 45, 0]
+					}
+				},
+				"root6": {
+					"rotation": {
+						"vector": [0, -45, 0]
+					}
+				},
+				"leaf3": {
+					"rotation": {
+						"vector": [10, 22.5, 0]
+					}
+				},
+				"leaf4": {
+					"rotation": {
+						"vector": [7.5, -25, 0]
+					}
+				},
+				"leaf5": {
+					"rotation": {
+						"vector": [-1.6575, -12.39135, 7.67995]
+					}
+				},
+				"leaf6": {
+					"rotation": {
+						"vector": [0, 7.5, 7.5]
+					}
+				},
+				"leaf8": {
+					"rotation": {
+						"vector": [0, -7.5, -10]
+					}
+				},
+				"bigleaf": {
+					"rotation": {
+						"vector": [0, 0, 17.5]
+					}
+				},
+				"bigleaf2": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"body": {
+					"rotation": {
+						"vector": [11.14614, -27.79374, 4.59975]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

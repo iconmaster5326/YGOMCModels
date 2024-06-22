@@ -1,0 +1,107 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"belt2": {
+					"rotation": {
+						"vector": [-49.75867, -17.43127, -1.5741]
+					}
+				},
+				"belt": {
+					"rotation": {
+						"vector": [-65.85133, 20.70481, 9.00717]
+					}
+				},
+				"robe4": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"robe3": {
+					"rotation": {
+						"vector": [0, 0, 25]
+					}
+				},
+				"robe2": {
+					"rotation": {
+						"vector": [35, 0, 0]
+					}
+				},
+				"robe": {
+					"rotation": {
+						"vector": [-35, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-360, 80, -280]
+					},
+					"position": {
+						"vector": [0, 0, -2]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-41.24535, -15.31871, -140.58748]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-63.14701, -54.92219, -3.56463]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-32.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-12.5, 0, -22.5]
+					},
+					"position": {
+						"vector": [0, 2, 0]
+					}
+				},
+				"darkfiredragon": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"darkfiredragon2": {
+					"rotation": {
+						"vector": [-131.30425, -31.16686, 149.50165]
+					}
+				},
+				"darkfiredragon3": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"darkfiredragon4": {
+					"rotation": {
+						"vector": [35, 0, 0]
+					}
+				},
+				"darkfiredragon5": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

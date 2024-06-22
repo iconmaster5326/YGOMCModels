@@ -1,0 +1,76 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"hindleg": {
+					"rotation": {
+						"vector": [-9.96271, -0.86717, -4.92442]
+					}
+				},
+				"hindleg_lower": {
+					"rotation": {
+						"vector": [9.96271, -0.86717, 4.92442]
+					}
+				},
+				"hindleg2": {
+					"rotation": {
+						"vector": [-4.92442, 0.86717, 9.96271]
+					}
+				},
+				"hindleg_lower2": {
+					"rotation": {
+						"vector": [4.98107, 0.43523, -4.98107]
+					}
+				},
+				"foreleg2": {
+					"rotation": {
+						"vector": [-55, 0, 0]
+					}
+				},
+				"foreleg_lower2": {
+					"rotation": {
+						"vector": [90, 0, 0]
+					}
+				},
+				"horse_neck": {
+					"rotation": {
+						"vector": [-43.85585, -32.41052, -29.15396]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [42.5, 0, 0]
+					}
+				},
+				"horse_head": {
+					"rotation": {
+						"vector": [48.92756, -35.27214, -51.85748]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [-12.5, 0, 20]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [-20, 0, -20]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [55.68917, 39.37493, 14.29146]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [48.96715, -31.83543, -8.31006]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

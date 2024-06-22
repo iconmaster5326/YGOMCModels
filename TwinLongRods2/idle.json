@@ -1,0 +1,111 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"rod": {
+					"rotation": {
+						"vector": [0, 0, 35]
+					}
+				},
+				"rod2": {
+					"rotation": {
+						"vector": [0, 0, 55]
+					}
+				},
+				"rod3": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"rod4": {
+					"rotation": {
+						"vector": [0, -10, 25]
+					}
+				},
+				"rod5": {
+					"rotation": {
+						"vector": [0, -12.5, 42.5]
+					}
+				},
+				"rod6": {
+					"rotation": {
+						"vector": [0, 0, 25]
+					}
+				},
+				"rod7": {
+					"rotation": {
+						"vector": [0, 0, -30]
+					}
+				},
+				"rod8": {
+					"rotation": {
+						"vector": [0, -15, -37.5]
+					}
+				},
+				"rod10": {
+					"rotation": {
+						"vector": [0, -7.5, 47.5]
+					}
+				},
+				"rod9": {
+					"rotation": {
+						"vector": [0, -17.5, 40]
+					}
+				},
+				"rod11": {
+					"rotation": {
+						"vector": [-18.97287, 16.58974, -50.29111]
+					}
+				},
+				"rod12": {
+					"rotation": {
+						"vector": [-10, 0, -45]
+					}
+				},
+				"rod13": {
+					"rotation": {
+						"vector": [-25, 0, -47.5]
+					}
+				},
+				"rod14": {
+					"rotation": {
+						"vector": [-15.62633, 22.91934, -35.68672]
+					}
+				},
+				"rod15": {
+					"rotation": {
+						"vector": [0, 0, -42.5]
+					}
+				},
+				"rod16": {
+					"rotation": {
+						"vector": [0, 0, 52.5]
+					}
+				},
+				"rod17": {
+					"rotation": {
+						"vector": [0, 0, 45]
+					}
+				},
+				"rod18": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"rod19": {
+					"rotation": {
+						"vector": [0, 17.5, -12.5]
+					}
+				},
+				"rod20": {
+					"rotation": {
+						"vector": [0, 17.5, 40]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

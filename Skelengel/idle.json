@@ -1,0 +1,67 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"belt": {
+					"rotation": {
+						"vector": [5.90535, -18.08401, 5.21541]
+					}
+				},
+				"tassels": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"hand": {
+					"rotation": {
+						"vector": [-82.5, -17.5, 0]
+					},
+					"position": {
+						"vector": [-8, 3, -10]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [0, -22.5, 0]
+					}
+				},
+				"halo": {
+					"rotation": {
+						"vector": [13.08619, 17.07228, 3.90399]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [0, 67.5, 0]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [0, -55, 0]
+					}
+				},
+				"hand2": {
+					"rotation": {
+						"vector": [-42.5, -17.5, 0]
+					},
+					"position": {
+						"vector": [3, 3, 0]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [50, 0, 0]
+					}
+				},
+				"bow": {
+					"rotation": {
+						"vector": [80, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

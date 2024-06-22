@@ -1,0 +1,131 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"upper_body": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [-7.5, 15, 0]
+					}
+				},
+				"left_shoulder": {
+					"rotation": {
+						"vector": [-57.5, 0, 0]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [-37.5, 0, 0]
+					}
+				},
+				"right_shoulder": {
+					"rotation": {
+						"vector": [-72.5, 0, 0]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"vector": [-75, 0, 0]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [-10, -10, 0]
+					}
+				},
+				"left_knee": {
+					"rotation": {
+						"vector": [-87.5, 0, 0]
+					}
+				},
+				"left_leg": {
+					"rotation": {
+						"vector": [140, 0, 0]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"claw": {
+					"rotation": {
+						"vector": [-75, 0, 0]
+					}
+				},
+				"right_knee": {
+					"rotation": {
+						"vector": [-67.5, 0, 0]
+					}
+				},
+				"right_leg": {
+					"rotation": {
+						"vector": [145, 0, 0]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"claw2": {
+					"rotation": {
+						"vector": [-55, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-25, 0, -7.5]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [-47.5, 0, 0]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [57.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-62.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

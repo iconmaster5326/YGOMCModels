@@ -1,0 +1,150 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"jaw": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					},
+					"position": {
+						"vector": [0, -1, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [1.31845, -9.91358, -7.61435]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, -17.5, -7.5]
+					}
+				},
+				"lower_arm": {
+					"rotation": {
+						"vector": [0, 0, 92.5]
+					}
+				},
+				"hand": {
+					"rotation": {
+						"vector": [0, 60, 0]
+					}
+				},
+				"body2": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"body3": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"hydra": {
+					"rotation": {
+						"vector": [33.62226, 21.29201, 17.08541]
+					},
+					"position": {
+						"vector": [-3, 0, 0]
+					}
+				},
+				"hydra2": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"hydra3": {
+					"rotation": {
+						"vector": [62.58937, 2.30644, 4.43745]
+					}
+				},
+				"hydra4": {
+					"rotation": {
+						"vector": [38.46347, 11.84911, 9.26433]
+					}
+				},
+				"hydra_head": {
+					"rotation": {
+						"vector": [0, 0, 15]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [1.3378, 14.94159, 5.17544]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 25, 7.5]
+					}
+				},
+				"lower_arm2": {
+					"rotation": {
+						"vector": [0, 0, -82.5]
+					}
+				},
+				"hand2": {
+					"rotation": {
+						"vector": [0, -52.5, 0]
+					}
+				},
+				"hydra5": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"hydra6": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"hydra7": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"hydra8": {
+					"rotation": {
+						"vector": [44.89078, -3.53329, 3.54002]
+					}
+				},
+				"hydra_head2": {
+					"rotation": {
+						"vector": [28.81543, 12.07639, 9.3035]
+					}
+				},
+				"hydra9": {
+					"rotation": {
+						"vector": [0, -25, 0]
+					},
+					"position": {
+						"vector": [2, 0, 0]
+					}
+				},
+				"hydra10": {
+					"rotation": {
+						"vector": [31.88034, 6.6782, -10.59061]
+					}
+				},
+				"hydra11": {
+					"rotation": {
+						"vector": [45.72113, 14.60559, -13.81465]
+					}
+				},
+				"hydra12": {
+					"rotation": {
+						"vector": [46.81472, 9.18229, -8.51814]
+					}
+				},
+				"hydra_head3": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

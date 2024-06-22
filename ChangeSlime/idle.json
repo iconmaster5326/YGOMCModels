@@ -1,0 +1,51 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"slime": {
+					"rotation": {
+						"vector": [0, -5, 0]
+					}
+				},
+				"jaws": {
+					"rotation": {
+						"vector": [0, 15, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"slime2": {
+					"rotation": {
+						"vector": [0, 0, -5]
+					}
+				},
+				"slime3": {
+					"rotation": {
+						"vector": [0, 0, -15]
+					}
+				},
+				"eye": {
+					"rotation": {
+						"vector": [8.11003, 22.29711, 3.09472]
+					}
+				},
+				"eye2": {
+					"rotation": {
+						"vector": [-27.56928, -34.22348, 16.36452]
+					}
+				},
+				"blade": {
+					"rotation": {
+						"vector": [0, 0, -17.5]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

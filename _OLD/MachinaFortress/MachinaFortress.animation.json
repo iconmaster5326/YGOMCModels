@@ -1,0 +1,41 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.MachinaFortress.idle": {
+			"loop": true,
+			"bones": {
+				"cannon": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [2.92638, -14.63639, -3.31914]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [2.5373, 19.99759, 0.11601]
+					}
+				},
+				"left_hand": {
+					"rotation": {
+						"vector": [-43.41006, 20.71501, -18.50097]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"vector": [12.60443, 7.32123, 1.63219]
+					}
+				},
+				"right_hand": {
+					"rotation": {
+						"vector": [-15.91527, -19.291, 5.38152]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
