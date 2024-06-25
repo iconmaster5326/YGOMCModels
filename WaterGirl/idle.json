@@ -1,0 +1,122 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-70.12925, -51.18666, 10.99293]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-122.5, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-41.81615, 8.40819, 9.28293]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-9.96271, 0.86717, 4.92442]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-60, 0, 0]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [70, 0, 0]
+					}
+				},
+				"cloth": {
+					"rotation": {
+						"vector": [0, -47.5, 0]
+					},
+					"position": {
+						"vector": [-4, 8, 4]
+					}
+				},
+				"cloth2": {
+					"rotation": {
+						"vector": [0, 22.5, 0]
+					},
+					"position": {
+						"vector": [0, -1, 0]
+					}
+				},
+				"cloth3": {
+					"rotation": {
+						"vector": [0, 7.5, 0]
+					}
+				},
+				"cloth4": {
+					"rotation": {
+						"vector": [0, 80, 0]
+					}
+				},
+				"cloth5": {
+					"rotation": {
+						"vector": [0, -60, 0]
+					}
+				},
+				"cloth6": {
+					"rotation": {
+						"vector": [0, -7.5, 0]
+					}
+				},
+				"cloth7": {
+					"rotation": {
+						"vector": [0, -90, 0]
+					}
+				},
+				"cloth8": {
+					"rotation": {
+						"vector": [0, 15, 0]
+					}
+				},
+				"cloth9": {
+					"rotation": {
+						"vector": [0, 102.5, 0]
+					}
+				},
+				"cloth10": {
+					"rotation": {
+						"vector": [0, 47.5, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
