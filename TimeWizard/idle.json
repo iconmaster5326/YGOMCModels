@@ -1,0 +1,96 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"foot2": {
+					"rotation": {
+						"vector": [10.27206, -33.64409, -18.11321]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [14.51082, 43.07952, 20.75357]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [12.5, 0, 17.5]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-105, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [20, 0, -20]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"lowercape": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"lowercape2": {
+					"rotation": {
+						"vector": [0, 12.5, 0]
+					}
+				},
+				"sidecape": {
+					"rotation": {
+						"vector": [0, -25, 0]
+					}
+				},
+				"uppersidecape": {
+					"rotation": {
+						"vector": [0, 7.5, 0]
+					}
+				},
+				"eye2": {
+					"rotation": {
+						"vector": [-12.68664, -9.76061, 2.18558]
+					}
+				},
+				"eye": {
+					"rotation": {
+						"vector": [-15.0547, 4.82922, -1.29717]
+					}
+				},
+				"hourhand": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"minutehand": {
+					"rotation": {
+						"vector": [0, 0, -45]
+					}
+				},
+				"uppersidecape2": {
+					"rotation": {
+						"vector": [0, -5, 0]
+					}
+				},
+				"lowercape3": {
+					"rotation": {
+						"vector": [0, -10, 0]
+					}
+				},
+				"sidecape2": {
+					"rotation": {
+						"vector": [0, 30, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
