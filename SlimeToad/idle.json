@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"body2": {
+					"rotation": {
+						"vector": [-2.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, 35, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [0, -40, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
