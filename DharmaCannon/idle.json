@@ -1,0 +1,51 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"eyebrow2": {
+					"rotation": {
+						"vector": [0, 0, 20]
+					}
+				},
+				"gun": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"gun2": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"eyebrow": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"missiles": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, -12.5, 42.5]
+					}
+				},
+				"missiles2": {
+					"rotation": {
+						"vector": [0, 0, 10]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [0, 12.5, -52.5]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
