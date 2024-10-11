@@ -1,0 +1,126 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-5, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, -17.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [50, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [20, 0, 10]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"cape": {
+					"rotation": {
+						"vector": [-35, 0, 0]
+					}
+				},
+				"cape4": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"cape5": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"axe": {
+					"rotation": {
+						"vector": [-52.23799, 40.81098, -111.38408]
+					}
+				},
+				"ponytail": {
+					"rotation": {
+						"vector": [-38.1906, 29.92573, -52.20864]
+					}
+				},
+				"ponytail2": {
+					"rotation": {
+						"vector": [-40, 0, 0]
+					}
+				},
+				"kilt2": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"kilt": {
+					"rotation": {
+						"vector": [35, 0, 0]
+					}
+				},
+				"kilt4": {
+					"rotation": {
+						"vector": [0, 0, -17.5]
+					}
+				},
+				"kilt3": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"cape3": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"cape2": {
+					"rotation": {
+						"vector": [0, 0, 25]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
