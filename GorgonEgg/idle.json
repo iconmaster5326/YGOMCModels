@@ -1,0 +1,75 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"skull": {
+					"rotation": {
+						"vector": [45, -10, 0]
+					},
+					"position": {
+						"vector": [0, 0, 2]
+					}
+				},
+				"skull2": {
+					"rotation": {
+						"vector": [45, 10, 0]
+					},
+					"position": {
+						"vector": [0, 0, 2]
+					}
+				},
+				"skull3": {
+					"rotation": {
+						"vector": [40, 10, 0]
+					},
+					"position": {
+						"vector": [-2, 0, 0]
+					}
+				},
+				"skull4": {
+					"rotation": {
+						"vector": [-35, -10, 0]
+					},
+					"position": {
+						"vector": [-2, 0, 0]
+					}
+				},
+				"skull5": {
+					"rotation": {
+						"vector": [32.5, -10, 0]
+					},
+					"position": {
+						"vector": [2, 0, 0]
+					}
+				},
+				"skull6": {
+					"rotation": {
+						"vector": [-30, 10, 0]
+					},
+					"position": {
+						"vector": [2, 0, 0]
+					}
+				},
+				"skull7": {
+					"rotation": {
+						"vector": [-35, -10, 0]
+					},
+					"position": {
+						"vector": [0, 0, -2]
+					}
+				},
+				"skull8": {
+					"rotation": {
+						"vector": [-40, 10, 0]
+					},
+					"position": {
+						"vector": [0, 0, -2]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
