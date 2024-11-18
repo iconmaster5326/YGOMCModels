@@ -1,0 +1,96 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [27.5, 0, 32.5]
+					}
+				},
+				"blade": {
+					"rotation": {
+						"vector": [0, 105, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 0, 32.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-66.0432, 32.61461, -76.53217]
+					}
+				},
+				"arm3": {
+					"rotation": {
+						"vector": [0, 0, 57.5]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-151.75088, 36.6102, -137.98262]
+					}
+				},
+				"sickle": {
+					"rotation": {
+						"vector": [143.34004, -17.26588, -21.741]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [10, 77.5, 0]
+					}
+				},
+				"arm4": {
+					"rotation": {
+						"vector": [-52.5, 0, -40]
+					}
+				},
+				"lowerarm3": {
+					"rotation": {
+						"vector": [0, -52.5, 0]
+					}
+				},
+				"arm5": {
+					"rotation": {
+						"vector": [0, 0, -52.5]
+					}
+				},
+				"lowerarm4": {
+					"rotation": {
+						"vector": [0, -102.5, 0]
+					}
+				},
+				"arm6": {
+					"rotation": {
+						"vector": [0, 0, -30]
+					}
+				},
+				"lowerarm5": {
+					"rotation": {
+						"vector": [-130.51675, -39.68013, 118.61928]
+					}
+				},
+				"spear": {
+					"rotation": {
+						"vector": [96.44698, 68.69404, 70.27126]
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"vector": [10, -70, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
