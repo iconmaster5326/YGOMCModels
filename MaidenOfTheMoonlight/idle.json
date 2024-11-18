@@ -1,0 +1,74 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"left_shoulder": {
+					"rotation": {
+						"vector": [-47.75318, 17.04679, 14.9092]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"right_shoulder": {
+					"rotation": {
+						"vector": [-34.81608, -14.90835, -20.30179]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [7.5, -17.5, 0]
+					}
+				},
+				"left_knee": {
+					"rotation": {
+						"vector": [-85, 0, 0]
+					}
+				},
+				"left_leg": {
+					"rotation": {
+						"vector": [132.52718, 1.84293, 1.68956]
+					}
+				},
+				"right_knee": {
+					"rotation": {
+						"vector": [-95, 0, 0]
+					}
+				},
+				"right_leg": {
+					"rotation": {
+						"vector": [122.52473, -2.10829, -1.34386]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [20, 62.5, 0]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [22.5, -77.5, 0]
+					}
+				},
+				"moon": {
+					"rotation": {
+						"vector": [0, 127.5, 0]
+					},
+					"position": {
+						"vector": [-2.63288, -0.01758, -1.43793]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
