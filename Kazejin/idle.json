@@ -1,0 +1,81 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm2": {
+					"rotation": {
+						"vector": [17.95107, -22.38126, -1.40458]
+					}
+				},
+				"finger4": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"finger5": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"finger6": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [15.61003, 22.29711, 3.09472]
+					}
+				},
+				"finger3": {
+					"rotation": {
+						"vector": [9.80863, -10.07442, 0.88075]
+					}
+				},
+				"finger2": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"finger": {
+					"rotation": {
+						"vector": [10, 10, 0]
+					}
+				},
+				"finger7": {
+					"rotation": {
+						"vector": [7.4353, -10.0212, 0.33127]
+					}
+				},
+				"finger8": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"finger9": {
+					"rotation": {
+						"vector": [12.30936, 7.61658, -1.09051]
+					}
+				},
+				"finger10": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"finger11": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"finger12": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
