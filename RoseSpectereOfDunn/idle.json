@@ -1,0 +1,141 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [87.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [14.94548, 1.29256, -24.83045]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-140, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-152.93439, -2.462, -29.99067]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [0, 0, -85]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-104.65993, -3.21132, -12.08681]
+					}
+				},
+				"flower": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"vine": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"vinetip": {
+					"rotation": {
+						"vector": [0, 0, 25]
+					}
+				},
+				"vinetip2": {
+					"rotation": {
+						"vector": [0, 0, 67.5]
+					}
+				},
+				"vine2": {
+					"rotation": {
+						"vector": [-36.83829, 7.57131, 44.97528]
+					}
+				},
+				"vine3": {
+					"rotation": {
+						"vector": [0, 0, 52.5]
+					}
+				},
+				"vine4": {
+					"rotation": {
+						"vector": [1.75378, 9.84655, 37.65108]
+					}
+				},
+				"vine5": {
+					"rotation": {
+						"vector": [0.6574, 7.4713, 57.54292]
+					}
+				},
+				"vine6": {
+					"rotation": {
+						"vector": [0, 0, 47.5]
+					}
+				},
+				"vine7": {
+					"rotation": {
+						"vector": [0, 0, 20]
+					}
+				},
+				"vine8": {
+					"rotation": {
+						"vector": [0, 0, 7.5]
+					}
+				},
+				"vine9": {
+					"rotation": {
+						"vector": [0, 0, 47.5]
+					}
+				},
+				"vine10": {
+					"rotation": {
+						"vector": [-26.56505, 14.47751, 26.56505]
+					}
+				},
+				"vine11": {
+					"rotation": {
+						"vector": [-20.01021, -1.23833, 18.34163]
+					}
+				},
+				"vine12": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"vine13": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"vine14": {
+					"rotation": {
+						"vector": [0, 0, 32.5]
+					}
+				},
+				"vine15": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"vine16": {
+					"rotation": {
+						"vector": [0, 0, 20]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
