@@ -1,0 +1,124 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-102.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, 0, -52.5]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [0, -50, 77.5]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [30, 0, 0]
+					}
+				},
+				"hand": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"kilt": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"tongue": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"tongue2": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"knife": {
+					"rotation": {
+						"vector": [-32.00206, 19.3546, -11.70092]
+					},
+					"position": {
+						"vector": [1, 0.5, -0.5]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 0, 35]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-97.5, 0, 0]
+					}
+				},
+				"hand2": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [0, 0, 52.5]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [0, 62.5, -75]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [19.9299, -1.70818, 44.69986]
+					}
+				},
+				"ear3": {
+					"rotation": {
+						"vector": [27.5, 0, -40]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
