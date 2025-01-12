@@ -1,0 +1,106 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"eyestalk": {
+					"rotation": {
+						"vector": [5, 0, -10]
+					}
+				},
+				"eyestalk2": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"eyestalk3": {
+					"rotation": {
+						"vector": [82.5, 0, 0]
+					}
+				},
+				"eyestalk4": {
+					"rotation": {
+						"vector": [57.5, 0, 0]
+					}
+				},
+				"sword": {
+					"rotation": {
+						"vector": [0, 0, 10]
+					}
+				},
+				"axe": {
+					"rotation": {
+						"vector": [0, 0, -7.5]
+					}
+				},
+				"shears": {
+					"rotation": {
+						"vector": [0, 0, 5]
+					}
+				},
+				"chainsaw": {
+					"rotation": {
+						"vector": [0, 0, 5]
+					}
+				},
+				"blade5": {
+					"rotation": {
+						"vector": [0, 20, 0]
+					}
+				},
+				"blade4": {
+					"rotation": {
+						"vector": [0, -17.5, 0]
+					}
+				},
+				"blade3": {
+					"rotation": {
+						"vector": [0, -7.5, 0]
+					}
+				},
+				"blade2": {
+					"rotation": {
+						"vector": [0, 10, 0]
+					}
+				},
+				"blade": {
+					"rotation": {
+						"vector": [0, 7.5, 0]
+					}
+				},
+				"eye": {
+					"rotation": {
+						"vector": [-37.5, 0, 0]
+					}
+				},
+				"eyestalk5": {
+					"rotation": {
+						"vector": [5, 0, 10]
+					}
+				},
+				"eyestalk6": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"eyestalk7": {
+					"rotation": {
+						"vector": [82.5, 0, 0]
+					}
+				},
+				"eyestalk8": {
+					"rotation": {
+						"vector": [57.5, 0, 0]
+					}
+				},
+				"eye2": {
+					"rotation": {
+						"vector": [-37.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
