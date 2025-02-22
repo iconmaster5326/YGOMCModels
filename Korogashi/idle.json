@@ -1,0 +1,142 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [47.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 4, -3]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-35, 0, 0]
+					}
+				},
+				"mandible": {
+					"rotation": {
+						"vector": [15, 17.5, 0]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [-49.01916, -11.43563, -9.77243]
+					}
+				},
+				"mandible2": {
+					"rotation": {
+						"vector": [15, -15, 0]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [-49.01916, 11.43563, 9.77243]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, 37.5, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-20.57167, 42.93026, -34.64108]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [0, 20, -15]
+					}
+				},
+				"leg4": {
+					"rotation": {
+						"vector": [0, -32.5, 0]
+					}
+				},
+				"leg5": {
+					"rotation": {
+						"vector": [-24.02393, -48.20277, 30.87463]
+					}
+				},
+				"leg6": {
+					"rotation": {
+						"vector": [-5.38152, -19.291, 15.91527]
+					}
+				},
+				"leg7": {
+					"rotation": {
+						"vector": [27.5, 15, 35]
+					}
+				},
+				"leg8": {
+					"rotation": {
+						"vector": [0, 0, 20]
+					}
+				},
+				"leg9": {
+					"rotation": {
+						"vector": [-67.81156, 57.87392, -104.39047]
+					}
+				},
+				"leg10": {
+					"rotation": {
+						"vector": [45, -32.5, 0]
+					}
+				},
+				"leg11": {
+					"rotation": {
+						"vector": [-36.32065, -55.03389, 41.89383]
+					}
+				},
+				"leg12": {
+					"rotation": {
+						"vector": [0, 10, -50]
+					}
+				},
+				"leg13": {
+					"rotation": {
+						"vector": [0, 0, -30]
+					}
+				},
+				"leg14": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"leg15": {
+					"rotation": {
+						"vector": [0, -50, 32.5]
+					}
+				},
+				"leg16": {
+					"rotation": {
+						"vector": [26.6614, 37.80946, 22.37174]
+					}
+				},
+				"leg17": {
+					"rotation": {
+						"vector": [-8.00083, 44.3088, -13.8263]
+					}
+				},
+				"leg18": {
+					"rotation": {
+						"vector": [0, -7.5, 50]
+					}
+				},
+				"ORB": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, -16.20369, -1.80976]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
