@@ -11,7 +11,7 @@
 				},
 				"leg": {
 					"rotation": {
-						"vector": [-19.7339, -11.0311, -28.07555]
+						"vector": [-22.5, 0, 0]
 					}
 				},
 				"lower_leg": {
@@ -31,17 +31,17 @@
 				},
 				"head": {
 					"rotation": {
-						"vector": [12.5, 0, 0]
+						"vector": [32.5, 0, 0]
 					}
 				},
 				"antenna": {
 					"rotation": {
-						"vector": [-22.5, 0, 5]
+						"vector": [-7.5, 0, 5]
 					}
 				},
 				"abdomen": {
 					"rotation": {
-						"vector": [-17.5, 0, 0]
+						"vector": [22.5, 0, 0]
 					}
 				},
 				"wing": {
@@ -51,7 +51,7 @@
 				},
 				"leg2": {
 					"rotation": {
-						"vector": [-45.90469, 22.52101, 20.36057]
+						"vector": [-50, 0, 0]
 					}
 				},
 				"lower_leg2": {
@@ -106,7 +106,7 @@
 				},
 				"antenna2": {
 					"rotation": {
-						"vector": [-25, 0, -2.5]
+						"vector": [-7.5, 0, -2.5]
 					}
 				},
 				"wing2": {
