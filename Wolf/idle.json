@@ -1,0 +1,119 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"hindleg": {
+					"rotation": {
+						"vector": [97.5, 0, 0]
+					}
+				},
+				"lower_hindleg": {
+					"rotation": {
+						"vector": [-107.5, 0, 0]
+					}
+				},
+				"hindpaw": {
+					"rotation": {
+						"vector": [40, 0, 0]
+					}
+				},
+				"lower_hindleg2": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"hindpaw2": {
+					"rotation": {
+						"vector": [40, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [129.32269, 71.78239, 116.341]
+					}
+				},
+				"foreleg": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"forepaw": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"lower_forepaw": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-172.5, 52.5, -180]
+					},
+					"position": {
+						"vector": [-1, 0, -1]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"foreleg2": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"forepaw2": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"lower_forepaw2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [-129.16869, -74.04208, 128.07076]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [-90, 80, -90]
+					}
+				},
+				"lower_hindpaw": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"lower_hindpaw2": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"lower_foreleg": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"lower_foreleg2": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
