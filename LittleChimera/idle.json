@@ -1,0 +1,129 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 8, 0]
+					}
+				},
+				"hindleg": {
+					"rotation": {
+						"vector": [0, -15, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"foreleg": {
+					"rotation": {
+						"vector": [-5, 0, -12.5]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [18.34257, 74.74009, 6.16186]
+					}
+				},
+				"lower_hindleg": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"hindpaw": {
+					"rotation": {
+						"vector": [0, 7.5, 0]
+					}
+				},
+				"forepaw": {
+					"rotation": {
+						"vector": [24.6625, 11.95775, 21.90462]
+					}
+				},
+				"foreleg2": {
+					"rotation": {
+						"vector": [-10, 0, 12.5]
+					}
+				},
+				"hindleg2": {
+					"rotation": {
+						"vector": [0, -12.5, 0]
+					}
+				},
+				"lower_hindleg2": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"hindpaw2": {
+					"rotation": {
+						"vector": [0, -20, 0]
+					}
+				},
+				"forepaw2": {
+					"rotation": {
+						"vector": [31.64606, -22.99966, -30.73169]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-145.96562, 38.8031, -175.6451]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [12.79362, -12.19908, -2.74715]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [18.29388, 16.66577, 5.41615]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [35.79355, -12.0174, 16.10644]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [25.68482, 10.17781, -20.17393]
+					}
+				},
+				"lower_forepaw": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"lower_forepaw2": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"lower_hindpaw": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"lower_hindpaw2": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
