@@ -1,0 +1,116 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"flank": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"foreleg": {
+					"rotation": {
+						"vector": [-56.2576, -14.6914, -9.61518]
+					}
+				},
+				"forefoot": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"foreclaw": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [12.5, 0, 42.5]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"hindleg": {
+					"rotation": {
+						"vector": [34.79887, 3.45533, -6.66067]
+					}
+				},
+				"lowerhindleg": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"hindfoot": {
+					"rotation": {
+						"vector": [127.5, 0, 0]
+					}
+				},
+				"hindclaw": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"hindleg2": {
+					"rotation": {
+						"vector": [27.14233, -4.59902, 8.88927]
+					}
+				},
+				"lowerhindleg2": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"hindfoot2": {
+					"rotation": {
+						"vector": [127.5, 0, 0]
+					}
+				},
+				"hindclaw2": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"foreleg2": {
+					"rotation": {
+						"vector": [-63.60782, 18.05776, 8.74472]
+					}
+				},
+				"forefoot2": {
+					"rotation": {
+						"vector": [30, 0, 0]
+					}
+				},
+				"foreclaw2": {
+					"rotation": {
+						"vector": [60, 0, 0]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [20, 0, -32.5]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [30, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
