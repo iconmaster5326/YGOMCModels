@@ -1,0 +1,254 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 22, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"vector": [-11.44864, -43.26264, -10.35423]
+					}
+				},
+				"wing4": {
+					"rotation": {
+						"vector": [0, -50, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [-9.6438, 45.71076, 11.94659]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [0, 52.5, 0]
+					}
+				},
+				"arm4": {
+					"rotation": {
+						"vector": [40, 0, 72.5]
+					}
+				},
+				"lowerarm4": {
+					"rotation": {
+						"vector": [-281.32963, 65.36154, -52.89169]
+					}
+				},
+				"fingers7": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"fingers8": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"thumb7": {
+					"rotation": {
+						"vector": [0, 0, 7.5]
+					}
+				},
+				"arm3": {
+					"rotation": {
+						"vector": [0, 0, 77.5]
+					}
+				},
+				"lowerarm3": {
+					"rotation": {
+						"vector": [0, -37.5, -72.5]
+					}
+				},
+				"fingers5": {
+					"rotation": {
+						"vector": [0, 0, -7.5]
+					}
+				},
+				"fingers6": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"thumb5": {
+					"rotation": {
+						"vector": [0, 0, 10]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [20, 0, -60]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-285.80116, -71.40632, -314.96641]
+					}
+				},
+				"fingers3": {
+					"rotation": {
+						"vector": [0, 0, 15]
+					}
+				},
+				"fingers4": {
+					"rotation": {
+						"vector": [0, 0, 15]
+					}
+				},
+				"thumb3": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, -77.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [0, -52.5, 62.5]
+					}
+				},
+				"fingers": {
+					"rotation": {
+						"vector": [0, 0, 15]
+					}
+				},
+				"fingers2": {
+					"rotation": {
+						"vector": [0, 0, 12.5]
+					}
+				},
+				"thumb": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-22.99008, -11.53486, 4.8493]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-25.76926, 13.56626, -6.46066]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [-45.68718, 8.80348, -8.90928]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [-30.86748, 12.95254, -7.63074]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [-41.01616, 21.26443, -2.38386]
+					}
+				},
+				"tail7": {
+					"rotation": {
+						"vector": [-50.67534, 7.9972, -9.63846]
+					}
+				},
+				"tail8": {
+					"rotation": {
+						"vector": [-47.4261, 27.65421, -12.13108]
+					}
+				},
+				"tail9": {
+					"rotation": {
+						"vector": [-55.6431, 7.13136, -10.29284]
+					}
+				},
+				"tail10": {
+					"rotation": {
+						"vector": [-32.00206, 19.3546, -11.70092]
+					}
+				},
+				"tail11": {
+					"rotation": {
+						"vector": [-18.29388, 16.66577, -5.41615]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"arm6": {
+					"rotation": {
+						"vector": [-67.16019, 48.97354, 11.69208]
+					}
+				},
+				"arm5": {
+					"rotation": {
+						"vector": [-26.39865, 10.71318, -81.01521]
+					}
+				},
+				"lowerarm5": {
+					"rotation": {
+						"vector": [21.05817, -10.27487, 29.42254]
+					}
+				},
+				"fingers9": {
+					"rotation": {
+						"vector": [0, 0, 12.5]
+					}
+				},
+				"fingers10": {
+					"rotation": {
+						"vector": [0, 0, 10]
+					}
+				},
+				"thumb9": {
+					"rotation": {
+						"vector": [0, 0, -7.5]
+					}
+				},
+				"lowerarm6": {
+					"rotation": {
+						"vector": [-180, -360, -117.5]
+					}
+				},
+				"fingers11": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"fingers12": {
+					"rotation": {
+						"vector": [0, 0, -10]
+					}
+				},
+				"thumb11": {
+					"rotation": {
+						"vector": [0, 0, 5]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
