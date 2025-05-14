@@ -1,0 +1,146 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"position": {
+						"vector": [0, -3.5, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [125, 0, 0]
+					}
+				},
+				"lowerfoot2": {
+					"rotation": {
+						"vector": [-82.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [20, 0, -25]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-85.01893, -0.43523, 4.98107]
+					}
+				},
+				"tassel": {
+					"rotation": {
+						"vector": [-75.66499, -4.46375, 16.93839]
+					}
+				},
+				"tassel2": {
+					"rotation": {
+						"vector": [-77.54608, 1.08089, -4.88206]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [25.76926, 13.56626, 6.46066]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [0, 70, 0]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [0, -70, 0]
+					}
+				},
+				"bandana": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-75, 0, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [115, 0, 0]
+					}
+				},
+				"lowerfoot": {
+					"rotation": {
+						"vector": [-45, 0, 0]
+					}
+				},
+				"tassel3": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [43.18528, -9.18229, -8.51814]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [70.28025, -3.40487, -9.40804]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [60, 0, 0]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [-12.92638, 14.63639, -3.31914]
+					}
+				},
+				"tail7": {
+					"rotation": {
+						"vector": [-40.43246, 7.64427, -6.46635]
+					}
+				},
+				"tail8": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
