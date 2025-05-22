@@ -1,0 +1,330 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"vine": {
+					"rotation": {
+						"vector": [17.25002, 2.99318, 80.45411]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 1.25, 0]
+					}
+				},
+				"topleaves": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"stem": {
+					"rotation": {
+						"vector": [0, 0, -37.5]
+					}
+				},
+				"stem2": {
+					"rotation": {
+						"vector": [0, 0, -15]
+					}
+				},
+				"flower": {
+					"rotation": {
+						"vector": [31.33144, -21.75204, -6.16856]
+					}
+				},
+				"leaves": {
+					"rotation": {
+						"vector": [-11.45696, 13.31791, -41.34198]
+					}
+				},
+				"leaves2": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"tongue": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0.25]
+					}
+				},
+				"leaves3": {
+					"rotation": {
+						"vector": [-10.26078, -11.00072, 43.49069]
+					}
+				},
+				"leaves4": {
+					"rotation": {
+						"vector": [0, 0, -30]
+					}
+				},
+				"stem3": {
+					"rotation": {
+						"vector": [0, 0, 30]
+					}
+				},
+				"stem4": {
+					"rotation": {
+						"vector": [0, 0, 20]
+					}
+				},
+				"flower2": {
+					"rotation": {
+						"vector": [28.20867, 21.63471, 5.49731]
+					}
+				},
+				"vine2": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"vine3": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"vine4": {
+					"rotation": {
+						"vector": [0, 0, -45]
+					}
+				},
+				"vine5": {
+					"rotation": {
+						"vector": [0, 0, 57.5]
+					}
+				},
+				"vine6": {
+					"rotation": {
+						"vector": [0, 0, 40]
+					}
+				},
+				"vine7": {
+					"rotation": {
+						"vector": [0, 0, 30]
+					}
+				},
+				"vine8": {
+					"rotation": {
+						"vector": [0, 0, -17.5]
+					}
+				},
+				"vine9": {
+					"rotation": {
+						"vector": [0, 0, 67.5]
+					}
+				},
+				"vine10": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"vine11": {
+					"rotation": {
+						"vector": [10.27206, 33.64409, 18.11321]
+					}
+				},
+				"vine12": {
+					"rotation": {
+						"vector": [-35.30565, 35.91172, -55.54451]
+					}
+				},
+				"vine13": {
+					"rotation": {
+						"vector": [11.23272, 36.01651, 3.66201]
+					}
+				},
+				"vine14": {
+					"rotation": {
+						"vector": [0.8299, -10.35178, -7.03213]
+					}
+				},
+				"vine15": {
+					"rotation": {
+						"vector": [-13.78629, -26.51517, 21.35338]
+					}
+				},
+				"vine16": {
+					"rotation": {
+						"vector": [-1.61412, -26.57907, 23.6397]
+					}
+				},
+				"vine17": {
+					"rotation": {
+						"vector": [-26.06663, -9.08661, 72.10756]
+					}
+				},
+				"vine18": {
+					"rotation": {
+						"vector": [0, 0, -12.5]
+					}
+				},
+				"vine19": {
+					"rotation": {
+						"vector": [0, 0, -5]
+					}
+				},
+				"vine20": {
+					"rotation": {
+						"vector": [0, 0, -40]
+					}
+				},
+				"vine21": {
+					"rotation": {
+						"vector": [0, 0, -27.5]
+					}
+				},
+				"vine22": {
+					"rotation": {
+						"vector": [0, 0, 47.5]
+					}
+				},
+				"vine23": {
+					"rotation": {
+						"vector": [0, 0, 45]
+					}
+				},
+				"vine24": {
+					"rotation": {
+						"vector": [0, 0, 30]
+					}
+				},
+				"vine25": {
+					"rotation": {
+						"vector": [-21.26765, 7.52076, -71.41403]
+					}
+				},
+				"vine26": {
+					"rotation": {
+						"vector": [0, 0, -15]
+					}
+				},
+				"vine27": {
+					"rotation": {
+						"vector": [0, 0, -12.5]
+					}
+				},
+				"vine28": {
+					"rotation": {
+						"vector": [0, 0, 25]
+					}
+				},
+				"vine29": {
+					"rotation": {
+						"vector": [27.40216, -26.66839, 23.38579]
+					}
+				},
+				"vine30": {
+					"rotation": {
+						"vector": [0, -47.5, 42.5]
+					}
+				},
+				"vine31": {
+					"rotation": {
+						"vector": [-14.58943, -23.57105, 33.05987]
+					}
+				},
+				"vine32": {
+					"rotation": {
+						"vector": [-20.30179, -14.90835, 25.18392]
+					}
+				},
+				"vine33": {
+					"rotation": {
+						"vector": [0, 0, -72.5]
+					}
+				},
+				"vine34": {
+					"rotation": {
+						"vector": [-2.20462, -12.3071, -7.26228]
+					}
+				},
+				"vine35": {
+					"rotation": {
+						"vector": [-0.66963, -14.98539, -7.41193]
+					}
+				},
+				"vine36": {
+					"rotation": {
+						"vector": [-13.37941, -15.89588, -0.44687]
+					}
+				},
+				"vine37": {
+					"rotation": {
+						"vector": [-18.07895, -21.07387, 13.83217]
+					}
+				},
+				"vine38": {
+					"rotation": {
+						"vector": [-3.62981, -26.62432, 27.37852]
+					}
+				},
+				"vine39": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"vine40": {
+					"rotation": {
+						"vector": [0, 0, 32.5]
+					}
+				},
+				"vine41": {
+					"rotation": {
+						"vector": [-12.37961, 8.53726, -55.9276]
+					}
+				},
+				"vine42": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"vine43": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"vine44": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"vine45": {
+					"rotation": {
+						"vector": [0, 0, -42.5]
+					}
+				},
+				"vine46": {
+					"rotation": {
+						"vector": [0, 0, -17.5]
+					}
+				},
+				"vine47": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"vine48": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"upperjaw": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, -1, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
