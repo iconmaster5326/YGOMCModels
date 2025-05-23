@@ -1,0 +1,126 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"hood2": {
+					"rotation": {
+						"vector": [0.88045, 9.96156, 5.07673]
+					}
+				},
+				"tentacle": {
+					"rotation": {
+						"vector": [23.00409, -14.47751, -3.96713]
+					}
+				},
+				"tentacle2": {
+					"rotation": {
+						"vector": [7.5, 15, 0]
+					}
+				},
+				"tentacle3": {
+					"rotation": {
+						"vector": [17.5, -32.5, 0]
+					}
+				},
+				"claws": {
+					"rotation": {
+						"vector": [30, 0, 37.5]
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"vector": [-160, 87.5, -180]
+					}
+				},
+				"wing4": {
+					"rotation": {
+						"vector": [0, 87.5, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [27.5, 0, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [42.5, 0, 0]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-5, 0, 0]
+					}
+				},
+				"hood": {
+					"rotation": {
+						"vector": [1.3378, -14.94159, -5.17544]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [27.5, 30, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-66.29652, -14.36495, 29.47028]
+					}
+				},
+				"claw": {
+					"rotation": {
+						"vector": [19.37006, 5.07855, -14.13272]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [-160, -87.5, -180]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [0, -72.5, 0]
+					}
+				},
+				"tentacle4": {
+					"rotation": {
+						"vector": [12.5, 0, 25]
+					}
+				},
+				"tentacle5": {
+					"rotation": {
+						"vector": [20, 0, -52.5]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [42.5, 0, 0]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [35, 0, 0]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [32.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
