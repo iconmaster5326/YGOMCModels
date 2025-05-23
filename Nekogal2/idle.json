@@ -1,0 +1,136 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-34.19815, -34.76135, 21.17901]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [9.04107, -41.70738, -13.4502]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [4.75346, -32.18826, -8.87221]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [3.50707, -29.84817, -5.71762]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [-6.23443, -27.6055, -2.18479]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [-5.38743, -15.60546, -5.16398]
+					}
+				},
+				"tail7": {
+					"rotation": {
+						"vector": [53.97379, -24.19697, -4.65507]
+					}
+				},
+				"tail8": {
+					"rotation": {
+						"vector": [55, -17.5, 0]
+					}
+				},
+				"tail9": {
+					"rotation": {
+						"vector": [-98.95263, 80.35111, -266.90891]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [47.5, 0, 0]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [-20, -17.5, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [-25, 17.5, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-72.5, 0, 0]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-45, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-82.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-37.45875, -29.90389, 31.09746]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [0, -5, 10]
+					}
+				},
+				"danglie2": {
+					"rotation": {
+						"vector": [0, -17.5, 20]
+					}
+				},
+				"danglie": {
+					"rotation": {
+						"vector": [0, 20, -12.5]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [0, 5, -10]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-105.12353, -7.24305, 1.95155]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [107.51565, 2.38422, 0.7522]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-55.02563, -1.43364, 2.04831]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [120.02363, 2.16489, 1.2506]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
