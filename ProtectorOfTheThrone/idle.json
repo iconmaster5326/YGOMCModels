@@ -1,0 +1,127 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-40, -55, 0]
+					},
+					"position": {
+						"vector": [0, -4, 23]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-37.78381, 14.24, 17.60455]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [64.9791, 2.26564, -1.0571]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [47.52717, -1.68868, -1.84373]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-67.5, 0, 0]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-87.49762, 2.49762, 0.10912]
+					}
+				},
+				"orb": {
+					"rotation": {
+						"vector": [-51.42171, 37.34874, 17.17929]
+					},
+					"position": {
+						"vector": [0, -2, -3]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [32.5, 0, 60]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-30, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [0, -2.5, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-90, 0, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [24.97911, -1.05627, 2.26603]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"hair": {
+					"rotation": {
+						"vector": [136.05215, -33.16347, -11.89031]
+					}
+				},
+				"hair2": {
+					"rotation": {
+						"vector": [-77.5, 0, 0]
+					}
+				},
+				"hair3": {
+					"rotation": {
+						"vector": [-67.5, 0, 0]
+					}
+				},
+				"hair4": {
+					"rotation": {
+						"vector": [67.5, 0, 0]
+					}
+				},
+				"hair5": {
+					"rotation": {
+						"vector": [30.99547, -19.90894, 59.01597]
+					}
+				},
+				"hair6": {
+					"rotation": {
+						"vector": [2.5, 0, 62.5]
+					}
+				},
+				"hair7": {
+					"rotation": {
+						"vector": [-2.5, 0, 27.5]
+					}
+				},
+				"hair8": {
+					"rotation": {
+						"vector": [-2.5, 0, 40]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
