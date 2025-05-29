@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"body2": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [30.59871, -10.80355, -6.32526]
+					}
+				},
+				"mandible2": {
+					"rotation": {
+						"vector": [7.5, 2.5, 0]
+					}
+				},
+				"mandible": {
+					"rotation": {
+						"vector": [7.5, -2.5, 0]
+					}
+				},
+				"antenna": {
+					"rotation": {
+						"vector": [14.33501, 4.46375, -16.93839]
+					}
+				},
+				"antenna2": {
+					"rotation": {
+						"vector": [0, 0, -35]
+					}
+				},
+				"antenna3": {
+					"rotation": {
+						"vector": [0, -47.5, 20]
+					}
+				},
+				"antenna4": {
+					"rotation": {
+						"vector": [13.9042, -5.68422, 21.80633]
+					}
+				},
+				"antenna5": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"antenna6": {
+					"rotation": {
+						"vector": [0, 40, -15]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [10.29354, -38.86967, -16.14054]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [6.42848, 26.79524, 14.03271]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-59.13252, -12.95254, -7.63074]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [-21.55613, -6.60796, -16.24074]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
