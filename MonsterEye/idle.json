@@ -1,0 +1,41 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"eye": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"eye2": {
+					"rotation": {
+						"vector": [24.14867, -20.70481, -9.00717]
+					}
+				},
+				"eye3": {
+					"rotation": {
+						"vector": [-45, -62.5, 0]
+					}
+				},
+				"eye4": {
+					"rotation": {
+						"vector": [39.71128, -17.67415, -14.15251]
+					}
+				},
+				"eye5": {
+					"rotation": {
+						"vector": [135, 37.5, -180]
+					}
+				},
+				"eye6": {
+					"rotation": {
+						"vector": [41.34198, 13.31791, 11.45696]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
