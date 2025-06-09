@@ -1,0 +1,116 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [4.69986, 1.70818, -19.9299]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-104.98637, 0.64686, 2.41492]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-24.47761, 5.24826, 11.36081]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-40.02687, 1.91486, -1.60757]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [23.78773, 18.42031, 7.92945]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-30, -27.5, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [60.02362, -1.2497, -2.16541]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [-22.5193, -2.30959, 0.95723]
+					}
+				},
+				"dewclaw": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"lowerfoot": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-37.5, 12.5, 0]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [70.01753, 0.85481, 2.34941]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [-22.5193, 2.30959, -0.95723]
+					}
+				},
+				"dewclaw2": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"lowerfoot2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"kilt": {
+					"rotation": {
+						"vector": [-55, 0, 0]
+					}
+				},
+				"kilt2": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"kilt3": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"kilt4": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"axe": {
+					"rotation": {
+						"vector": [0, 22.5, -75]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
