@@ -1,0 +1,76 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-165, -335, -180]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-90, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 0, 22.5]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [0, -120, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-32.5, 0, -12.5]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-55, 0, 22.5]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [97.5, 0, 0]
+					}
+				},
+				"hair": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"cloth": {
+					"rotation": {
+						"vector": [-10.12508, -23.90917, 2.89928]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
