@@ -1,0 +1,51 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"gun": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [25, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-16.62484, 22.22485, -38.28761]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-17.23442, -24.94169, 36.33914]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [13.36473, -18.26883, -37.15846]
+					}
+				},
+				"leg4": {
+					"rotation": {
+						"vector": [14.06573, 20.88127, 35.10451]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-42.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
