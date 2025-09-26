@@ -1,0 +1,134 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-37.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, -11, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [45.02728, -1.76749, -1.76833]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-29.78729, -3.74196, -6.50446]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-42.47283, 1.68868, 1.84373]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-69.55418, 11.73507, 4.3361]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-97.50706, -2.4786, 0.32652]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [19.27896, -38.3808, -12.25294]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-45.95539, -28.87909, -25.03818]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [17.5, 0, 107.5]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-40.89339, 20.70481, 22.20765]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [2.5, 0, -130]
+					}
+				},
+				"sword": {
+					"rotation": {
+						"vector": [0, -5, -100]
+					}
+				},
+				"scarf": {
+					"rotation": {
+						"vector": [-53.68912, 16.93664, 29.1494]
+					}
+				},
+				"scarf2": {
+					"rotation": {
+						"vector": [-57.5, 0, 0]
+					}
+				},
+				"scarf3": {
+					"rotation": {
+						"vector": [-90, 0, 0]
+					}
+				},
+				"scarf4": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"scarf5": {
+					"rotation": {
+						"vector": [-50, 0, 0]
+					}
+				},
+				"scarf6": {
+					"rotation": {
+						"vector": [-47.5, 0, 0]
+					}
+				},
+				"scarf7": {
+					"rotation": {
+						"vector": [-52.97532, 19.82169, -2.71994]
+					}
+				},
+				"scarf8": {
+					"rotation": {
+						"vector": [-57.5, 0, 0]
+					}
+				},
+				"scarf9": {
+					"rotation": {
+						"vector": [67.5, 0, 0]
+					}
+				},
+				"scarf10": {
+					"rotation": {
+						"vector": [65, 0, 0]
+					}
+				},
+				"scarf11": {
+					"rotation": {
+						"vector": [-50, 0, 0]
+					}
+				},
+				"scarf12": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
