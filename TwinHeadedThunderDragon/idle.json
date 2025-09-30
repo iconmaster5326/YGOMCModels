@@ -1,0 +1,124 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"neck": {
+					"rotation": {
+						"vector": [7.97532, -19.82169, -2.71994]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [5.24133, -17.43127, -1.5741]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					},
+					"position": {
+						"vector": [0, -0.5, 0]
+					}
+				},
+				"jaw2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"jaw3": {
+					"rotation": {
+						"vector": [50, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-35, -47.5, 0]
+					}
+				},
+				"lower_leg": {
+					"rotation": {
+						"vector": [82.5, 0, 0]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [-40, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [10, 22.5, 0]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [5, 17.5, 0]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [-17.5, 15, 0]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [-15, 25, 0]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [-15, -20, 0]
+					}
+				},
+				"tail6": {
+					"rotation": {
+						"vector": [-15, -30, 0]
+					}
+				},
+				"tail7": {
+					"rotation": {
+						"vector": [0, -27.5, 0]
+					}
+				},
+				"tail8": {
+					"rotation": {
+						"vector": [0, -35, 0]
+					}
+				},
+				"tail9": {
+					"rotation": {
+						"vector": [0, -35, 0]
+					}
+				},
+				"tail10": {
+					"rotation": {
+						"vector": [0, -32.5, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-52.5, 2.5, 0]
+					}
+				},
+				"lower_leg2": {
+					"rotation": {
+						"vector": [95, 0, 0]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"body": {
+					"rotation": {
+						"vector": [0, 15, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
