@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"eye2": {
+					"rotation": {
+						"vector": [-5.38152, 19.291, 14.08473]
+					}
+				},
+				"eye": {
+					"rotation": {
+						"vector": [-5.38152, -19.291, -14.08473]
+					}
+				},
+				"track2": {
+					"rotation": {
+						"vector": [27.5, 12.5, 20]
+					}
+				},
+				"track": {
+					"rotation": {
+						"vector": [27.5, -12.5, -20]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
