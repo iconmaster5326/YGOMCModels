@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": [22.5, 0, 0]
+				},
+				"upper_body": {
+					"rotation": [-17.5, 0, 0]
+				},
+				"arm": {
+					"rotation": [-32.89913, 12.67956, 18.74227]
+				},
+				"lowerarm": {
+					"rotation": [0, 0, 87.5]
+				},
+				"arm2": {
+					"rotation": [-7.18626, -17.38772, -18.2489]
+				},
+				"lowerarm2": {
+					"rotation": [0, 0, -25]
+				},
+				"head": {
+					"rotation": [-10.37065, 18.19938, -20.76653]
+				},
+				"vine": {
+					"rotation": [-27.5, 0, 0]
+				},
+				"vinetip": {
+					"rotation": [0, 0, 25]
+				},
+				"vinetip2": {
+					"rotation": [0, 0, 67.5]
+				},
+				"vine2": {
+					"rotation": [-36.83829, 7.57131, 44.97528]
+				},
+				"vine3": {
+					"rotation": [0, 0, 52.5]
+				},
+				"vine4": {
+					"rotation": [1.75378, 9.84655, 37.65108]
+				},
+				"vine5": {
+					"rotation": [0.6574, 7.4713, 57.54292]
+				},
+				"vine6": {
+					"rotation": [0, 0, 47.5]
+				},
+				"vine7": {
+					"rotation": [0, 0, 20]
+				},
+				"vine8": {
+					"rotation": [0, 0, 7.5]
+				},
+				"vine9": {
+					"rotation": [0, 0, 47.5]
+				},
+				"vine10": {
+					"rotation": [-26.56505, 14.47751, 26.56505]
+				},
+				"vine11": {
+					"rotation": [-20.01021, -1.23833, 18.34163]
+				},
+				"vine12": {
+					"rotation": [0, 0, 27.5]
+				},
+				"vine13": {
+					"rotation": [0, 0, 27.5]
+				},
+				"vine14": {
+					"rotation": [0, 0, 32.5]
+				},
+				"vine15": {
+					"rotation": [0, 0, 22.5]
+				},
+				"vine16": {
+					"rotation": [0, 0, 20]
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
