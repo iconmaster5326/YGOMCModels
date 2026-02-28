@@ -1,0 +1,131 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"upper_body": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-38.83144, -21.75204, -31.33144]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-94.15232, -9.60243, 35.79653]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-22.10125, -8.42145, -5.41207]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [72.5, 0, 0]
+					}
+				},
+				"claw": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"claw2": {
+					"rotation": {
+						"vector": [-55, 0, 0]
+					}
+				},
+				"claw3": {
+					"rotation": {
+						"vector": [57.5, 0, 0]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"neck2": {
+					"rotation": {
+						"vector": [47.5, 0, 0]
+					}
+				},
+				"neck3": {
+					"rotation": {
+						"vector": [30, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [78.29978, 25.48567, 31.10499]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [0, 62.5, 0]
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"vector": [79.68195, -35.27548, -35.81418]
+					}
+				},
+				"wing4": {
+					"rotation": {
+						"vector": [0, -47.5, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-56.87402, 10.51794, 6.79286]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [72.5, 0, 0]
+					}
+				},
+				"claw4": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"claw5": {
+					"rotation": {
+						"vector": [-55, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-35.41318, 8.17773, 31.72491]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-106.27132, 0.67967, -36.88984]
+					}
+				},
+				"claw6": {
+					"rotation": {
+						"vector": [55, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
