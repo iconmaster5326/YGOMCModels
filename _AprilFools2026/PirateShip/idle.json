@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"boat": {
+					"rotation": {
+						"vector": [0, 0, 7.5]
+					}
+				},
+				"sail": {
+					"rotation": {
+						"vector": [0, -12.5, 0]
+					}
+				},
+				"flag": {
+					"rotation": {
+						"vector": [0, -220, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
