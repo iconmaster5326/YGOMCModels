@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-80, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"beard": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
