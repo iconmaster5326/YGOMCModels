@@ -1,0 +1,135 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation": {
+			"loop": true,
+			"bones": {
+				"upper_body": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-24.5621, 22.9824, -10.1178]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-54.5869, 8.1777, 5.7751]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-10.2375, 12.3072, -2.2046]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, -70, 0]
+					}
+				},
+				"fist": {
+					"rotation": {
+						"vector": [-45, 0, 0]
+					}
+				},
+				"eye": {
+					"rotation": {
+						"vector": [0, -30, 0]
+					}
+				},
+				"eye2": {
+					"rotation": {
+						"vector": [0, -30, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-57.5, 0, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [67.5, 0, 0]
+					}
+				},
+				"leg4": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-25.3376, 9.0548, -4.2618]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [55.6432, 7.1313, 10.2929]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [-12.6866, 9.7606, -2.1856]
+					}
+				},
+				"tail4": {
+					"rotation": {
+						"vector": [-27.8609, 8.8605, -4.6547]
+					}
+				},
+				"tail5": {
+					"rotation": {
+						"vector": [-38.4635, 11.8491, -9.2644]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [9.4125, -13.5091, 22.9474]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-85, 0, 0]
+					}
+				},
+				"fist2": {
+					"rotation": {
+						"vector": [-90, 55, 90]
+					}
+				},
+				"leg5": {
+					"rotation": {
+						"vector": [0, 47.5, 0]
+					}
+				},
+				"leg6": {
+					"rotation": {
+						"vector": [-52.5, 0, 0]
+					}
+				},
+				"leg7": {
+					"rotation": {
+						"vector": [60, 0, 0]
+					}
+				},
+				"leg8": {
+					"rotation": {
+						"vector": [-7.5, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"axe": {
+					"rotation": {
+						"vector": [-4.9575, 0.6518, 7.4718]
+					}
+				}
+			}
+		}
+	}
+}
