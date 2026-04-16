@@ -1,0 +1,130 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"feeler": {
+					"rotation": {
+						"vector": [0, 0, 60]
+					}
+				},
+				"feeler2": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"feeler3": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"feeler4": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"feeler5": {
+					"rotation": {
+						"vector": [0, 0, -67.5]
+					}
+				},
+				"feeler6": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"feeler7": {
+					"rotation": {
+						"vector": [0, 0, -27.5]
+					}
+				},
+				"feeler8": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"feeler9": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"feeler10": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"feeler11": {
+					"rotation": {
+						"vector": [0, 0, -27.5]
+					}
+				},
+				"feeler12": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"feeler13": {
+					"rotation": {
+						"vector": [0, 0, 35]
+					}
+				},
+				"feeler14": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"feeler15": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"feeler16": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				},
+				"feeler17": {
+					"rotation": {
+						"vector": [0, 0, -45]
+					}
+				},
+				"feeler18": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"feeler19": {
+					"rotation": {
+						"vector": [0, 0, -27.5]
+					}
+				},
+				"feeler20": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"feeler21": {
+					"rotation": {
+						"vector": [0, 0, 42.5]
+					}
+				},
+				"feeler22": {
+					"rotation": {
+						"vector": [0, 0, -32.5]
+					}
+				},
+				"feeler23": {
+					"rotation": {
+						"vector": [0, 0, 37.5]
+					}
+				},
+				"feeler24": {
+					"rotation": {
+						"vector": [0, 0, 27.5]
+					}
+				}
+			}
+		}
+	}
+}
