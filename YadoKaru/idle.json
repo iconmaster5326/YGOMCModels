@@ -1,0 +1,55 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"shell": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-1.7492, -69.5085, 37.2748]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 30, 0]
+					}
+				},
+				"pincer": {
+					"rotation": {
+						"vector": [0, 30, 0]
+					}
+				},
+				"arm3": {
+					"rotation": {
+						"vector": [30, 77.5, 0]
+					}
+				},
+				"arm4": {
+					"rotation": {
+						"vector": [0, -37.5, 0]
+					}
+				},
+				"pincer2": {
+					"rotation": {
+						"vector": [0, -35, 0]
+					}
+				}
+			}
+		}
+	}
+}
