@@ -1,0 +1,80 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [-25, 0, -15]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-38.427, 39.0065, 38.4269]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-72.5, 0, 0]
+					}
+				},
+				"hat": {
+					"rotation": {
+						"vector": [0, 0, 12.5]
+					}
+				},
+				"hat2": {
+					"rotation": {
+						"vector": [0, 0, -27.5]
+					}
+				},
+				"hand": {
+					"rotation": {
+						"vector": [0, 12.5, 0]
+					}
+				},
+				"wand": {
+					"rotation": {
+						"vector": [0, 12.5, -72.5]
+					}
+				},
+				"hat3": {
+					"rotation": {
+						"vector": [0, 0, 12.5]
+					}
+				},
+				"hat4": {
+					"rotation": {
+						"vector": [0, 0, -45]
+					}
+				},
+				"hand2": {
+					"rotation": {
+						"vector": [0, -12.5, 0]
+					}
+				},
+				"wand2": {
+					"rotation": {
+						"vector": [19.2567, -11.8655, -59.52]
+					}
+				},
+				"wand3": {
+					"rotation": {
+						"vector": [0, 0, 25]
+					}
+				},
+				"wand4": {
+					"rotation": {
+						"vector": [0, 0, 92.5]
+					}
+				}
+			}
+		}
+	}
+}
