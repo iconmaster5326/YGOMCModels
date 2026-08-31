@@ -1,0 +1,73 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [-62.1285, 36.4235, 1.5466]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [30, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [17.1098, 3.7316, -11.9384]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-45.9929, 10.5453, -10.7285]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-17.5, 0, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-66.6932, -9.3073, 20.5764]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [26.3923, -18.0578, -8.7446]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [14.9864, -0.6469, 2.4149]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-65, 0, 0]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [107.5157, 2.3842, 0.7522]
+					}
+				},
+				"spear": {
+					"rotation": {
+						"vector": [-37.575, -81.6532, 17.9105]
+					},
+					"position": {
+						"vector": [9.33691, 3.39094, -1.15051]
+					}
+				}
+			}
+		}
+	}
+}
