@@ -1,0 +1,65 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [-75, 0, 0]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [-59.2616, 43.103, -59.2616]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"cloak": {
+					"rotation": {
+						"vector": [-20, 0, 0]
+					}
+				},
+				"cloak2": {
+					"rotation": {
+						"vector": [0, 0, 45]
+					}
+				},
+				"cloak3": {
+					"rotation": {
+						"vector": [0, 0, -47.5]
+					}
+				},
+				"cloak4": {
+					"rotation": {
+						"vector": [17.5, 0, 0]
+					}
+				},
+				"glove": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-85, 0, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-28.2298, -52.4226, 34.1141]
+					}
+				},
+				"glove2": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
