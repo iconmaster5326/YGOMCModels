@@ -1,0 +1,80 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"position": {
+						"vector": [0, -7, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-5.1721, 5.7077, 44.9048]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [2.5, 0, 85]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-171.6585, -82.9642, 119.3611]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-79.9907, -2.462, -0.4344]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-48.8492, 11.7216, -95.5868]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [-113.0339, -1.8358, 1.6195]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-63.5708, -31.1563, 102.3912]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [-123.8098, 1.9048, -0.9741]
+					}
+				},
+				"dress": {
+					"rotation": {
+						"vector": [55, 0, 0]
+					}
+				},
+				"earring": {
+					"rotation": {
+						"vector": [-14.0768, -0.6275, -5.0787]
+					}
+				},
+				"earring2": {
+					"rotation": {
+						"vector": [-11.7353, 0.4364, 4.2454]
+					}
+				}
+			}
+		}
+	}
+}
