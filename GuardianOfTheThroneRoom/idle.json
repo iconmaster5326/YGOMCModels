@@ -1,0 +1,40 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [-24.2476, -6.2796, -13.6496]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-45, 0, 0]
+					}
+				},
+				"fist": {
+					"rotation": {
+						"vector": [0, -25, 0]
+					}
+				},
+				"arm3": {
+					"rotation": {
+						"vector": [11.125, -5.7357, 26.9408]
+					}
+				},
+				"arm4": {
+					"rotation": {
+						"vector": [-80, 0, 0]
+					}
+				},
+				"fist2": {
+					"rotation": {
+						"vector": [0, 27.5, 0]
+					}
+				}
+			}
+		}
+	}
+}
