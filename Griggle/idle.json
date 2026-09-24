@@ -1,0 +1,35 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"position": {
+						"vector": [0, 6, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [0, -17.5, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [0, 20, 0]
+					}
+				},
+				"leg4": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
