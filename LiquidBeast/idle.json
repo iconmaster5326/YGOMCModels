@@ -1,0 +1,53 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"jaw": {
+					"rotation": {
+						"vector": [2.5, 0, 0]
+					}
+				},
+				"head2": {
+					"position": {
+						"vector": [0, -5.75, 0]
+					}
+				},
+				"eye5": {
+					"rotation": {
+						"vector": [-5, -10, 0]
+					}
+				},
+				"eye4": {
+					"rotation": {
+						"vector": [-10, 0, 0]
+					}
+				},
+				"eye3": {
+					"rotation": {
+						"vector": [-10, 0, 10]
+					}
+				},
+				"eye2": {
+					"rotation": {
+						"vector": [-2.4359, 7.4355, 0.9844]
+					}
+				},
+				"eye": {
+					"rotation": {
+						"vector": [-5, -12.5, 0]
+					}
+				},
+				"backhead": {
+					"position": {
+						"vector": [0, -3, 0]
+					},
+					"scale": {
+						"vector": [1, 0.4, 1]
+					}
+				}
+			}
+		}
+	}
+}
