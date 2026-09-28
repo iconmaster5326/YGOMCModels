@@ -1,0 +1,125 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [0, 0, -2.5]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"neck2": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-4.9575, -0.6518, -7.4718]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [12.316, -2.154, 9.7675]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"vector": [12.316, 2.154, -9.7675]
+					}
+				},
+				"wing4": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-15, 0, -10]
+					}
+				},
+				"claw": {
+					"rotation": {
+						"vector": [0, 0, -22.5]
+					}
+				},
+				"claw2": {
+					"rotation": {
+						"vector": [-1.1069, -12.4517, 20.1207]
+					}
+				},
+				"claw3": {
+					"rotation": {
+						"vector": [1.6575, 12.3914, 22.6799]
+					}
+				},
+				"claw4": {
+					"rotation": {
+						"vector": [0, 0, 15]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-15, 0, 15]
+					}
+				},
+				"claw5": {
+					"rotation": {
+						"vector": [0, 0, -15]
+					}
+				},
+				"claw6": {
+					"rotation": {
+						"vector": [1.5741, -17.4313, -20.2414]
+					}
+				},
+				"claw7": {
+					"rotation": {
+						"vector": [-1.3185, 9.9136, -22.6143]
+					}
+				},
+				"claw8": {
+					"rotation": {
+						"vector": [0, 0, 17.5]
+					}
+				},
+				"arm3": {
+					"rotation": {
+						"vector": [-15, 0, 15]
+					}
+				},
+				"arm4": {
+					"rotation": {
+						"vector": [0, 0, -20]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [-25.5305, 11.3126, -5.3526]
+					}
+				},
+				"tail2": {
+					"rotation": {
+						"vector": [25.5305, 11.3126, 5.3525]
+					}
+				},
+				"tail3": {
+					"rotation": {
+						"vector": [32.7234, 6.3202, 4.0462]
+					}
+				}
+			}
+		}
+	}
+}
