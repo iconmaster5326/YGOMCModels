@@ -1,0 +1,81 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [0, -42.5, -27.5]
+					},
+					"position": {
+						"vector": [0, 0, 0.5]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [0, 0, 5]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 35, 25]
+					},
+					"position": {
+						"vector": [0, 0, 0.5]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [0, 0, -5]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-15, 7.5, 0]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [17.5, -10, 0]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [15, 62.5, 0]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [0, 62.5, 0]
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"vector": [15, -65, 0]
+					}
+				},
+				"wing4": {
+					"rotation": {
+						"vector": [0, -60, 0]
+					}
+				}
+			}
+		}
+	}
+}
