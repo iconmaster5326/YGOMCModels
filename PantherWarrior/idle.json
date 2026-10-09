@@ -1,0 +1,105 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"lower_body": {
+					"rotation": {
+						"vector": [12.5, 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-72.5, 0, 0]
+					}
+				},
+				"lowerarm": {
+					"rotation": {
+						"vector": [0, 0, 2.5]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-77.5, 0, 0]
+					}
+				},
+				"lowerarm2": {
+					"rotation": {
+						"vector": [-24.9791, -1.0563, -2.266]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [-37.5, 0, 0]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-97.9754, -19.8218, 2.72]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [157.4807, -2.3096, 0.9572]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [-98.2651, 24.7716, -3.4831]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [92.4976, 0.109, -2.4976]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"vector": [15, 0, 0]
+					}
+				},
+				"cape": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					}
+				},
+				"kilt": {
+					"rotation": {
+						"vector": [-47.5, 0, 0]
+					}
+				},
+				"kilt2": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"sword": {
+					"rotation": {
+						"vector": [0, 0, 87.5]
+					}
+				},
+				"shield": {
+					"position": {
+						"vector": [0, -0.65, 0]
+					}
+				},
+				"ear2": {
+					"rotation": {
+						"vector": [0, 40, 0]
+					}
+				},
+				"ear": {
+					"rotation": {
+						"vector": [0, -45, 0]
+					}
+				}
+			}
+		}
+	}
+}
